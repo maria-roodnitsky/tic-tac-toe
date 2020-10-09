@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player1_label">Player 1</string>
+    <string name="player2_label">Player 2</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="button00_label">00</string>
+    <string name="button01_label">01</string>
+    <string name="button02_label">02</string>
+    <string name="button10_label">10</string>
+    <string name="button11_label">11</string>
+    <string name="button12_label">12</string>
+    <string name="button20_label">20</string>
+    <string name="button21_label">21</string>
+    <string name="button22_label">22</string>
+</resources>
